@@ -1,0 +1,38 @@
+Technical Manual for Multi-Form Application
+
+1.Lotto Max - 
+- Used Environment.CurrentDirectory to make the path of the text file as default project folder
+- Used Random to generate random Numbers
+- Used for loop to set parameter of random numbers
+- Used try and catch and streamwriter to write in text file
+- Used streamreader to read text file
+- Used Messagebox for exit button
+
+2.Lotto 649 - 
+- Used Environment.CurrentDirectory to make the path of the text file as default project folder
+- Used Random to generate random Numbers
+- Used for loop to set parameter of random numbers
+- Used try and catch and streamwriter to write in text file
+- Used streamreader to read text file
+- Used Messagebox for exit button
+
+3.Calculator - 
+- Used if(!) statement to limit the use of "." decimal point
+- Made public class compute() and used switch statement to code the arithmetic operations
+- Used num = float.Parse and count for the arithmetic operator buttons
+- Used the compute() class in the "=" equals button
+
+4.Money Exchange - 
+- Used Environment.CurrentDirectory to make the path of the text file as default project folder
+- Used try and catch,if statement and .ToString to code the Convert button
+- Used StreamWriter and StreamReader to write and read in text file
+
+5.Temperature Converter - 
+- Used if statement and Convert.ToString((Convert.ToInt16 to code radio button
+- Used if and || to code the Message to be shown
+- Used StreamReader to read from Text File 
+
+6.IP Validator - 
+- Used DateTime.Now.ToString() to show current date
+- Used bool,regular expressions and message box to code the validator
+- Used .Clear() and .Focus() to code reset button
